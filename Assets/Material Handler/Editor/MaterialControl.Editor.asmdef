@@ -1,0 +1,16 @@
+{
+    "name": "MaterialControl.Editor",
+    "rootNamespace": "MaterialControl.Editor",
+    "references": [
+        "GUID:44a8f13ec0d190d478797d8b65dd49c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
